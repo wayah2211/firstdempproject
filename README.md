@@ -4,6 +4,6 @@
 
 ###### Small Heading
 
-** This text is bold **
-__ This is bold __
+**This text is bold**
+__This is bold__
 This is my first project
